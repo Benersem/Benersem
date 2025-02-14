@@ -1,6 +1,8 @@
 # Hi there! 👋  
 
-I'm Semira, a **PhD Chemist and Researcher** passionate about **data analytics and data science**.  
+I'm Semira, a **PhD Chemist and Researcher** passionate about **data analytics and data science**.
+
+
 🔬 **Scientific Researcher** → Exploring data-driven solutions  
 📊 **Python, SQL, Pandas, Matplotlib, Data Visualization and a bit of Java**  
 🚀 Currently exploring **Data Science**  
