@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there! 👋  
 
-<!--
-**Benersem/Benersem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Semira, a **PhD Chemist and Researcher** passionate about **data analytics and data science**.  
+🔬 **Scientific Researcher** → Exploring data-driven solutions  
+📊 **Python, SQL, Pandas, Matplotlib, Data Visualization and a bit of Java**  
+🚀 Currently exploring **Data Science**  
 
-Here are some ideas to get you started:
+### 🔹 What I'm Working On  
+- 📊 Data analytics projects using Python, SQL and Tableau  
+- 🤖 Learning machine learning techniques  
+- 📈 Exploring data visualization & storytelling  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's Connect!  
+🔗 [LinkedIn](https://www.linkedin.com/in/semira-bener-a24041211)  
